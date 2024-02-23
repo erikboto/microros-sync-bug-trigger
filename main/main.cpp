@@ -18,7 +18,6 @@
 #include <rclc/rclc.h>
 
 #include "driver/uart.h"
-#include "custom_networking.h"
 #include "esp32_serial_transport.h"
 
 #include <rmw_microxrcedds_c/config.h>
